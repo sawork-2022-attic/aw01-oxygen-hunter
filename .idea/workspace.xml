@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98c6e875-e1ef-4ac4-b187-fb58a88d43c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/java/asciiPanel/AsciiCharacterData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/java/asciiPanel/AsciiFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/java/asciiPanel/AsciiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/java/asciiPanel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/java/asciiPanel/TileTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/config-annotation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437_12x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437_8x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/cp437_9x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/drake_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/qbicfeet_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/taffer_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/main/resources/talryth_square_15x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/test/java/asciiPanel/AsciiPanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-annotation/src/test/resources/cp437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/java/asciiPanel/AsciiCharacterData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/java/asciiPanel/AsciiFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/java/asciiPanel/AsciiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/java/asciiPanel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/java/asciiPanel/TileTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437_12x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437_8x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/cp437_9x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/drake_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/qbicfeet_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/taffer_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/main/resources/talryth_square_15x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/test/java/asciiPanel/AsciiPanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-java-config/src/test/resources/cp437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/aw01-oxygen-hunter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_api_mockito_common_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_api_support_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_core_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_powermock_powermock_reflect_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_aop_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_beans_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_context_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_core_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_expression_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/java/asciiPanel/AsciiCharacterData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/java/asciiPanel/AsciiFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/java/asciiPanel/AsciiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/java/asciiPanel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/java/asciiPanel/TileTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437_12x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437_8x8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/cp437_9x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/drake_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/qbicfeet_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/taffer_10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/main/resources/talryth_square_15x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/test/java/asciiPanel/AsciiPanelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asciiPanel-xml-config/src/test/resources/cp437.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25sgwEUOh6iuy8fgIVpN7h9x4Po" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c6e875-e1ef-4ac4-b187-fb58a88d43c6" name="Changes" comment="" />
+      <created>1646321445027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646321445027</updated>
+      <workItem from="1646321447296" duration="176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
